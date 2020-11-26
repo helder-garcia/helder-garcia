@@ -2,7 +2,7 @@
 
 This is the github profile of **Helder Garcia**
 
-Subjects I like, work, or at least I'm try to learn:
+Subjects I like, work, or at least I'll try to learn:
 
 \- Corporate Backup Solutions - IBM Spectrum Protect (aka TSM), IBM Spectrum Protect Plus
 
