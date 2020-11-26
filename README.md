@@ -1,4 +1,34 @@
-### Hi there 👋
+### Glad to see you here
+
+This is the github profile of **Helder Garcia**
+
+Subjects I like, work, or at least I'm try to learn:
+
+\- Corporate Backup Solutions - IBM Spectrum Protect (aka TSM), IBM Spectrum Protect Plus
+
+\- High End storage systems - IBM Virtualize (aka SVC), IBM Scale
+
+\- Blockchain
+
+\- Node JS
+
+\- Vue JS
+
+\- React
+
+\- React Native
+
+\- Docker
+
+\- Perl
+
+\- Python
+
+\- Ansible/AWX
+
+\- Rundeck
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=helder-garcia&label=Profile%20views&color=0e75b6&style=flat" alt="helder-garcia" /> </p>
 
 <!--
 **helder-garcia/helder-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
