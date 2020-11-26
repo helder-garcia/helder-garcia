@@ -10,23 +10,11 @@ Subjects I like, work, or at least I'll try to learn:
 
 \- Blockchain
 
-\- Node JS
+\- Node JS, Vue JS, React, React Native
 
-\- Vue JS
+\- Perl, Python
 
-\- React
-
-\- React Native
-
-\- Docker
-
-\- Perl
-
-\- Python
-
-\- Ansible/AWX
-
-\- Rundeck
+\- Docker, Ansible/AWX, Rundeck
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helder-garcia&label=Profile%20views&color=0e75b6&style=flat" alt="helder-garcia" /> </p>
 
